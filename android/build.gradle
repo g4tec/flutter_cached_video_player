@@ -28,7 +28,7 @@ apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 29
-    namespace "com.flutter.flutter_cached_video_player"
+    namespace "com.lazyarts.vikram.cached_video_player"
     defaultConfig {
         minSdkVersion 16
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
